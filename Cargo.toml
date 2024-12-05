@@ -1,0 +1,9 @@
+[package]
+name = "word_search_solver"
+version = "0.1.0"
+edition = "2021"
+description = "Solves a word search"
+license = "MIT"
+repository = "https://github.com/hydrogenmacro/word_search_solver"
+
+[dependencies]
