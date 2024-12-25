@@ -1,5 +1,5 @@
 # Word Search Solver
-https://img.shields.io/docsrs/word_search_solver/0.1.0
+![https://docs.rs/word_search_solver](https://img.shields.io/docsrs/word_search_solver/0.1.0)
 
 Finds the starting character(s) of a word in a word search.
 
