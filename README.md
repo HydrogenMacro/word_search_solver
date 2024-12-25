@@ -1,5 +1,6 @@
 # Word Search Solver
-![https://docs.rs/word_search_solver](https://img.shields.io/docsrs/word_search_solver/0.1.0)
+<a href="https://docs.rs/word_search_solver" alt="Word Search Solver Library Docs" target="_blank">
+        <img src="https://img.shields.io/docsrs/word_search_solver/0.1.0" /></a>
 
 Finds the starting character(s) of a word in a word search.
 
